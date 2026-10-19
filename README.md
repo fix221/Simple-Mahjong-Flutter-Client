@@ -1,6 +1,6 @@
 ﻿# Flutter 麻将客户端
 
-对接 `../server`（Go WebSocket）。
+对接 [服务端](https://github.com/fix221/Simple-Mahjong-Server)（Go WebSocket）。
 
 ## 运行
 
@@ -14,6 +14,8 @@ flutter run -d windows    # 桌面
 flutter run -d chrome     # 网页
 flutter run               # 手机/模拟器
 ```
+
+![Games](images/game.png)
 
 ## 功能
 
